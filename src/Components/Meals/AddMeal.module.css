@@ -1,0 +1,44 @@
+.input{
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+
+}
+
+
+.sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.home{
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 200px;
+    background-color: rgb(186, 195, 225);
+}
+
+
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.main{
+    background-color: azure;
+    margin: 20px;
+    padding: 20px;
+    margin-left: 480px;
+    margin-right: 480px;
+    align-items: center;
+}
